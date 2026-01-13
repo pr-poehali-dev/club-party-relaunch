@@ -136,14 +136,14 @@ const Index = () => {
         </div>
       </section>
 
-      <section className="relative py-16 md:py-32 px-4 md:px-6 bg-black border-t border-white/10">
+      <section className="relative py-24 md:py-48 px-4 md:px-6 bg-black border-t border-white/10">
         <div className="absolute inset-0 opacity-10">
           <div className="absolute top-0 left-1/4 w-64 md:w-96 h-64 md:h-96 bg-white rounded-full filter blur-3xl"></div>
           <div className="absolute bottom-0 right-1/4 w-64 md:w-96 h-64 md:h-96 bg-white rounded-full filter blur-3xl"></div>
         </div>
         
         <div className="max-w-6xl mx-auto relative z-10">
-          <div className="text-center mb-12 md:mb-20">
+          <div className="text-center mb-16 md:mb-32">
             <div className="inline-block mb-4 md:mb-6">
               <div className="w-12 md:w-16 h-[2px] bg-white mx-auto mb-6 md:mb-8"></div>
               <h2 className="font-display text-4xl sm:text-5xl md:text-6xl lg:text-8xl font-bold uppercase tracking-tight px-4">
@@ -153,15 +153,15 @@ const Index = () => {
             </div>
           </div>
           
-          <div className="space-y-12 md:space-y-16">
+          <div className="space-y-16 md:space-y-24">
             <div className="text-center max-w-3xl mx-auto px-4">
-              <p className="text-2xl sm:text-3xl md:text-4xl font-display font-bold uppercase mb-6 md:mb-8 leading-tight">
+              <p className="text-2xl sm:text-3xl md:text-4xl font-display font-bold uppercase mb-8 md:mb-12 leading-tight">
                 Незабываемая ночь, которая войдёт в легенды
               </p>
             </div>
             
-            <div className="grid sm:grid-cols-3 gap-8 md:gap-12 px-4">
-              <div className="space-y-4 md:space-y-6 text-center">
+            <div className="grid sm:grid-cols-3 gap-12 md:gap-16 lg:gap-20 px-4">
+              <div className="space-y-6 md:space-y-8 text-center">
                 <h3 className="font-display text-2xl md:text-3xl font-bold uppercase leading-tight">
                   Отличная<br/>музыка
                 </h3>
@@ -171,7 +171,7 @@ const Index = () => {
                 </p>
               </div>
               
-              <div className="space-y-4 md:space-y-6 text-center">
+              <div className="space-y-6 md:space-y-8 text-center">
                 <h3 className="font-display text-2xl md:text-3xl font-bold uppercase leading-tight">
                   Элитный<br/>алкоголь
                 </h3>
@@ -181,7 +181,7 @@ const Index = () => {
                 </p>
               </div>
               
-              <div className="space-y-4 md:space-y-6 text-center">
+              <div className="space-y-6 md:space-y-8 text-center">
                 <h3 className="font-display text-2xl md:text-3xl font-bold uppercase leading-tight">
                   Ты —<br/>VIP персона
                 </h3>
@@ -192,8 +192,8 @@ const Index = () => {
               </div>
             </div>
             
-            <div className="pt-8 md:pt-12 space-y-6 md:space-y-8 max-w-4xl mx-auto px-4">
-              <div className="border-l-4 border-white/50 pl-6 md:pl-8 space-y-4">
+            <div className="pt-12 md:pt-20 space-y-8 md:space-y-10 max-w-4xl mx-auto px-4">
+              <div className="border-l-4 border-white/50 pl-6 md:pl-8 space-y-6 md:space-y-8">
                 <p className="text-lg sm:text-xl md:text-2xl leading-relaxed font-light">
                   XXCLUSIVE — это не просто вечеринка. Это опыт, который запомнится надолго.
                 </p>
