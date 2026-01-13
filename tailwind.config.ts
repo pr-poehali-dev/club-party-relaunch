@@ -64,8 +64,8 @@ export default {
 				}
 			},
 			fontFamily: {
-				'display': ['Playfair Display', 'serif'],
-				'sans': ['Montserrat', 'sans-serif'],
+				'display': ['Oswald', 'sans-serif'],
+				'sans': ['Rubik', 'sans-serif'],
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
